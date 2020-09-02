@@ -1,0 +1,172 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d9a5f17c54584a67b7fe58665965f15, type: 3}
+  m_Name: AssetProcessEventRecord
+  m_EditorClassIdentifier: 
+  m_events:
+  - m_kind: 0
+    m_timestampUtc: 132342942138614803
+    m_assetName: se_maoudamashii_retro04.mp3
+    m_assetGuid: 314a6f3cdc4522d489cfc16310aa185e
+    m_graphGuid: cbd848ef98015374cbb33aaf7c43a01a
+    m_nodeId: 9a00dac5-317a-4c43-acb0-8fcef0c567e9
+    m_nodeName: Overwrite Import Settings
+    m_description: 
+    m_howToFix: 
+  - m_kind: 0
+    m_timestampUtc: 132342942145600644
+    m_assetName: oboroduki__.mp3
+    m_assetGuid: 542ede787957760418409bc9b9a5d3cb
+    m_graphGuid: cbd848ef98015374cbb33aaf7c43a01a
+    m_nodeId: 7ff7d7b0-ab5c-4daa-a080-c289aef9a7cb
+    m_nodeName: Overwrite Import Settings
+    m_description: 
+    m_howToFix: 
+  - m_kind: 0
+    m_timestampUtc: 132342942178117777
+    m_assetName: se_maoudamashii_jingle10.wav
+    m_assetGuid: 08a3114e822a4c445ad6d5c59188cb1e
+    m_graphGuid: cbd848ef98015374cbb33aaf7c43a01a
+    m_nodeId: aac6d5c7-ea2c-4118-8530-8bf2dbec04f3
+    m_nodeName: Overwrite Import Settings
+    m_description: 
+    m_howToFix: 
+  - m_kind: 0
+    m_timestampUtc: 132424141556029090
+    m_assetName: emerald.mp3
+    m_assetGuid: cc0ca6c83392cb7479ae890b7e14fa5d
+    m_graphGuid: cbd848ef98015374cbb33aaf7c43a01a
+    m_nodeId: 7ff7d7b0-ab5c-4daa-a080-c289aef9a7cb
+    m_nodeName: Overwrite Import Settings
+    m_description: 
+    m_howToFix: 
+  - m_kind: 0
+    m_timestampUtc: 132424141556039060
+    m_assetName: chess.mp3
+    m_assetGuid: f30d71e9f931a7f44b1c5607072f9308
+    m_graphGuid: cbd848ef98015374cbb33aaf7c43a01a
+    m_nodeId: 7ff7d7b0-ab5c-4daa-a080-c289aef9a7cb
+    m_nodeName: Overwrite Import Settings
+    m_description: 
+    m_howToFix: 
+  - m_kind: 0
+    m_timestampUtc: 132424143448761419
+    m_assetName: simplestyle.mp3
+    m_assetGuid: c7fd74afb7258a342898deba0afb69ff
+    m_graphGuid: cbd848ef98015374cbb33aaf7c43a01a
+    m_nodeId: 7ff7d7b0-ab5c-4daa-a080-c289aef9a7cb
+    m_nodeName: Overwrite Import Settings
+    m_description: 
+    m_howToFix: 
+  - m_kind: 0
+    m_timestampUtc: 132424143448781083
+    m_assetName: mist.mp3
+    m_assetGuid: d9b84fbf9299ace4087ee919dc6964fa
+    m_graphGuid: cbd848ef98015374cbb33aaf7c43a01a
+    m_nodeId: 7ff7d7b0-ab5c-4daa-a080-c289aef9a7cb
+    m_nodeName: Overwrite Import Settings
+    m_description: 
+    m_howToFix: 
+  - m_kind: 0
+    m_timestampUtc: 132424149399192421
+    m_assetName: cursor4.mp3
+    m_assetGuid: 85f5ca7290fa17f4d8ba09f6730b6361
+    m_graphGuid: cbd848ef98015374cbb33aaf7c43a01a
+    m_nodeId: 9a00dac5-317a-4c43-acb0-8fcef0c567e9
+    m_nodeName: Overwrite Import Settings
+    m_description: 
+    m_howToFix: 
+  - m_kind: 0
+    m_timestampUtc: 132424164293812106
+    m_assetName: Hit_Hurt45.wav
+    m_assetGuid: 06d90af4e1c77dc49bc70712226f2b39
+    m_graphGuid: cbd848ef98015374cbb33aaf7c43a01a
+    m_nodeId: 9a00dac5-317a-4c43-acb0-8fcef0c567e9
+    m_nodeName: Overwrite Import Settings
+    m_description: 
+    m_howToFix: 
+  - m_kind: 0
+    m_timestampUtc: 132424164293832083
+    m_assetName: Laser_Shoot23.wav
+    m_assetGuid: 773d480ab2b20ab468315cd676728223
+    m_graphGuid: cbd848ef98015374cbb33aaf7c43a01a
+    m_nodeId: 9a00dac5-317a-4c43-acb0-8fcef0c567e9
+    m_nodeName: Overwrite Import Settings
+    m_description: 
+    m_howToFix: 
+  - m_kind: 0
+    m_timestampUtc: 132424165875378200
+    m_assetName: Pickup_Coin33.wav
+    m_assetGuid: 02c73f4d2a0769149bf4e3aeada98806
+    m_graphGuid: cbd848ef98015374cbb33aaf7c43a01a
+    m_nodeId: 9a00dac5-317a-4c43-acb0-8fcef0c567e9
+    m_nodeName: Overwrite Import Settings
+    m_description: 
+    m_howToFix: 
+  - m_kind: 0
+    m_timestampUtc: 132424175067822382
+    m_assetName: Hit_Hurt45_2.wav
+    m_assetGuid: 0c5457eb3215edf44902146e6709b2d5
+    m_graphGuid: cbd848ef98015374cbb33aaf7c43a01a
+    m_nodeId: 9a00dac5-317a-4c43-acb0-8fcef0c567e9
+    m_nodeName: Overwrite Import Settings
+    m_description: 
+    m_howToFix: 
+  - m_kind: 0
+    m_timestampUtc: 132424180800847287
+    m_assetName: Pickup_Coin35.wav
+    m_assetGuid: 8e607fe5bca1612429968d4cab906cbd
+    m_graphGuid: cbd848ef98015374cbb33aaf7c43a01a
+    m_nodeId: 9a00dac5-317a-4c43-acb0-8fcef0c567e9
+    m_nodeName: Overwrite Import Settings
+    m_description: 
+    m_howToFix: 
+  - m_kind: 0
+    m_timestampUtc: 132424182330846272
+    m_assetName: Pickup_Coin35__.wav
+    m_assetGuid: 9e7e6931a4e573f42bb59e025819a295
+    m_graphGuid: cbd848ef98015374cbb33aaf7c43a01a
+    m_nodeId: 9a00dac5-317a-4c43-acb0-8fcef0c567e9
+    m_nodeName: Overwrite Import Settings
+    m_description: 
+    m_howToFix: 
+  - m_kind: 0
+    m_timestampUtc: 132424182330856252
+    m_assetName: Pickup_Coin35_.wav
+    m_assetGuid: a59f1182b9cc5784ebeaeb2134a9ae7d
+    m_graphGuid: cbd848ef98015374cbb33aaf7c43a01a
+    m_nodeId: 9a00dac5-317a-4c43-acb0-8fcef0c567e9
+    m_nodeName: Overwrite Import Settings
+    m_description: 
+    m_howToFix: 
+  - m_kind: 0
+    m_timestampUtc: 132424188715308042
+    m_assetName: Explosion8.wav
+    m_assetGuid: 4bd624e9a186304448172a67f36f01b5
+    m_graphGuid: cbd848ef98015374cbb33aaf7c43a01a
+    m_nodeId: 9a00dac5-317a-4c43-acb0-8fcef0c567e9
+    m_nodeName: Overwrite Import Settings
+    m_description: 
+    m_howToFix: 
+  - m_kind: 0
+    m_timestampUtc: 132425833897909478
+    m_assetName: neonpurple.mp3
+    m_assetGuid: d3d28d005290216438c4e2bca4e15ca4
+    m_graphGuid: cbd848ef98015374cbb33aaf7c43a01a
+    m_nodeId: 7ff7d7b0-ab5c-4daa-a080-c289aef9a7cb
+    m_nodeName: Overwrite Import Settings
+    m_description: 
+    m_howToFix: 
+  m_errorEventCount: 3
+  m_infoEventCount: 19
+  m_version: 1
+  m_processStartIndex: 0

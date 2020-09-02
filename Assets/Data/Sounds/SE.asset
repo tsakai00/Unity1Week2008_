@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c21f5d4cc7614da4296258dad8d50e73, type: 3}
+  m_Name: SE
+  m_EditorClassIdentifier: 
+  _sourceFolder: Assets/Data/Sounds/SE
+  _audioClipInfoList:
+  - key: A
+    clip: {fileID: 8300000, guid: 1272796297ec4cb4186b38b44579790b, type: 3}
+  - key: CURSOR4
+    clip: {fileID: 8300000, guid: 85f5ca7290fa17f4d8ba09f6730b6361, type: 3}
+  - key: EXPLOSION8
+    clip: {fileID: 8300000, guid: 4bd624e9a186304448172a67f36f01b5, type: 3}
+  - key: HIT_HURT45
+    clip: {fileID: 8300000, guid: 06d90af4e1c77dc49bc70712226f2b39, type: 3}
+  - key: HIT_HURT45_2
+    clip: {fileID: 8300000, guid: 0c5457eb3215edf44902146e6709b2d5, type: 3}
+  - key: LASER_SHOOT23
+    clip: {fileID: 8300000, guid: 773d480ab2b20ab468315cd676728223, type: 3}
+  - key: PICKUP_COIN33
+    clip: {fileID: 8300000, guid: 02c73f4d2a0769149bf4e3aeada98806, type: 3}
+  - key: PICKUP_COIN35
+    clip: {fileID: 8300000, guid: 8e607fe5bca1612429968d4cab906cbd, type: 3}
+  - key: PICKUP_COIN35_
+    clip: {fileID: 8300000, guid: a59f1182b9cc5784ebeaeb2134a9ae7d, type: 3}
+  - key: PICKUP_COIN35__
+    clip: {fileID: 8300000, guid: 9e7e6931a4e573f42bb59e025819a295, type: 3}
+  - key: B
+    clip: {fileID: 8300000, guid: fca2d584a8290ba4d97a612f51523b69, type: 3}
+  - key: C
+    clip: {fileID: 8300000, guid: 314a6f3cdc4522d489cfc16310aa185e, type: 3}
+  - key: D
+    clip: {fileID: 8300000, guid: d6cab189cb3a32341830ca144eade048, type: 3}
